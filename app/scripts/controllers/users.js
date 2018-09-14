@@ -5,7 +5,7 @@
 
 function usersActionsController() {
     //tu código aquí.  
-
+    //Prueba.
     i=0;
 
     agregar = document.getElementById("add");
