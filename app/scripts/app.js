@@ -3,11 +3,9 @@
  * Controla la logica general de la aplicación, como navegación 
  * basica, cargue de templates y persistencia de información
  */
-
-
+users = [];
 menu = document.querySelector("ul");
 var xhr = new XMLHttpRequest();
-
 var REPO = {
     'master': []
 };
